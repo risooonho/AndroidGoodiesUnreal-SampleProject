@@ -6,6 +6,12 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.2.1
+
++ ADDED Capture screenshot
++ FIXED Performace issue with picking image from gallery
++ FIXED Image functions callback handling in game thread
+
 ## v.1.2.0
 
 + ADDED Capture photo
