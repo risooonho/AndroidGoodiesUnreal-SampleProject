@@ -6,6 +6,11 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.2.2
+
++ ADDED Flashlight and vibrations
++ FIXED Issue image format issue for sharing
+
 ## v.1.2.1
 
 + ADDED Capture screenshot
