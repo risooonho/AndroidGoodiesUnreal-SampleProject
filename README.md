@@ -8,7 +8,7 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ## v.1.2.2
 
-+ ADDED Flashlight and vibrations
++ ADDED Class for Hardware interactions (flashlight, vibrations, battery)
 + FIXED Issue image format issue for sharing
 
 ## v.1.2.1
