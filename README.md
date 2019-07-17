@@ -8,8 +8,11 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ## v.1.2.2
 
-+ ADDED Class for Hardware interactions (flashlight, vibrations, battery)
-+ FIXED Issue image format issue for sharing
++ ADDED Toggle flashlight
++ ADDED Vibrations
++ ADDED Device battery information
++ ADDED Basic telephony operations (dial/call number)
++ FIXED Issue with image color format while sharing
 
 ## v.1.2.1
 
