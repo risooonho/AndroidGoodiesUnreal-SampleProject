@@ -6,6 +6,14 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.2.2
+
++ ADDED Toggle flashlight
++ ADDED Vibrations
++ ADDED Device battery information
++ ADDED Basic telephony operations (dial/call number)
++ FIXED Issue with image color format while sharing
+
 ## v.1.2.1
 
 + ADDED Capture screenshot
