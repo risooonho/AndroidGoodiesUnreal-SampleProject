@@ -6,6 +6,10 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.2.3
+
++ ADDED Fetching contacts info
+
 ## v.1.2.2
 
 + ADDED Toggle flashlight
