@@ -8,6 +8,11 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ## v.1.2.3
 
++ ADDED Unreal Engine 4.24 support
++ FIXED Issues with native callbacks
+
+## v.1.2.3
+
 + ADDED Fetching contacts info
 
 ## v.1.2.2
