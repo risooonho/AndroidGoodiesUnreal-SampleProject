@@ -8,9 +8,11 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ## v.1.3.1
 
-+ ADDED SHaring of multiple images via email app
++ ADDED Unreal Engine 4.25 support
++ ADDED Sharing of multiple images via email app
 + ADDED Permissions setup via plugin settings
 + FIXED Issues with date and time picker initialization
++ FIXED Texture to image conversion
 
 ## v.1.3.0
 
