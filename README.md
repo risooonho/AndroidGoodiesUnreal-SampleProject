@@ -6,6 +6,17 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.3.1
+
++ ADDED SHaring of multiple images via email app
++ ADDED Permissions setup via plugin settings
++ FIXED Issues with date and time picker initialization
+
+## v.1.3.0
+
++ ADDED Check for notification channels support
++ FIXED Some method categories
+
 ## v.1.2.3
 
 + ADDED Unreal Engine 4.24 support
