@@ -6,6 +6,12 @@ Join our [Discord server](https://discord.gg/SuJP9fY) and ask us anything!
 
 ### CHANGELOG
 
+## v.1.3.2
+
++ FIXED Default permission settings
++ FIXED Notifcations crash in release builds
++ FIXED Android SDK version check for some notifications
+
 ## v.1.3.1
 
 + ADDED Unreal Engine 4.25 support
